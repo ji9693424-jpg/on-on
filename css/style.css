@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 970px;
+    height: 112px;
+    background-color: #48ff00;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+.header-top {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-top img {
+    width: 18px;
+    height: 18px;
+}
+
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.nav {
+    width: 700px;
+    height: 65px;
+    background-color: rgb(238, 255, 0);
+    align-items: flex-end;
+}
+
+.content01 {
+    width: 970px;
+    height: 578px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.a-left {
+    width: 480px;
+    height: 578px;
+    margin-right: 10px;
+}
+
+.a-right1 {
+    width: 480px;
+    height: 186px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.a-right1-1 {
+    width: 235px;
+    height: 186px;
+    margin-right: 10px;
+}
+
+.a-right1-2 {
+    width: 235px;
+    height: 186px;
+}
+
+.a-right2 {
+    width: 480px;
+    height: 186px;
+
+    margin-bottom: 10px;
+}
+
+.a-right3 {
+    width: 480px;
+    height: 186px;
+}
+
+.content02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b-left {
+    width: 480px;
+    height: 188px;
+
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.b-right {
+    display: flex;
+    margin-top: 10px;
+}
+
+.b-right1 {
+    width: 235px;
+    height: 188px;
+}
+
+.b-right2 {
+    width: 235px;
+    height: 188px;
+
+    margin-left: 10px;
+}
+
+.content03 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-top {
+    display: flex;
+}
+
+.c-left-top {
+    width: 235px;
+    height: 186px;
+
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.c-left-bottom {
+    width: 235px;
+    height: 186px;
+
+    margin-bottom: 10px;
+}
+
+.c-right {
+    width: 235px;
+    height: 382px;
+
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.c-bottom {
+    width: 480px;
+    height: 186px;
+
+    margin-bottom: 60px;
+}
+
+.c-r {
+    width: 480px;
+    height: 578px;
+
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.footer {
+    width: 970px;
+    height: 80px;
+
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+    background-color: #48ff00;
+}

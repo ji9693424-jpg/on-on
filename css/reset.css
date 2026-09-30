@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "OwnglyphYuntaeng";
+    src: url("https://cdn.jsdelivr.net/gh/Project-Noonnu/2608211801@font-160/font-160/온글잎 윤탱체.woff2")
+        format("woff2");
+    font-weight: 400;
+    font-display: swap;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap");
